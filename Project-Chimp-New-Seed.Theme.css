@@ -34,8 +34,8 @@
   --middle-brightness: 0.6;
   --right-brightness: 0.1;
   --overlay-brightness: 0.75;
-  --gradient-primary: 255,56,0;
-  --gradient-secondary: 0,255,6;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 0,0,0;
   --link-colour: #006BF4;
   --scrollbar-colour: rgb(255,255,255,0.5);
   --gradient-direction: 294deg;
