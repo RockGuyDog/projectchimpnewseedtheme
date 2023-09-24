@@ -1,7 +1,7 @@
 /**
 * @name ProjectChimpNewSeed
 * @author terminala
-* @version 1.0
+* @version 1.1
 * @description Project Chimp New Seed Theme
 * @invite FdZhbjY
 * @source https://github.com/RockGuyDog/projectchimpnewseedtheme
@@ -14,6 +14,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
+  --TB-header-padding: 100px!important;
   --background-image: url('https://cdn.discordapp.com/attachments/1146039062021537893/1152629914349092914/image.png');
   --background-image-blur: 5px;
   --background-image-size: cover;
