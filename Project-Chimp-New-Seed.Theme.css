@@ -1,8 +1,8 @@
 /**
 * @name ProjectChimpNewSeed
 * @author terminala
-* @version 1.1
-* @description Project Chimp New Seed Theme
+* @version 1.2
+* @description Project Chimp New Seed Discord Theme Credit to monitii for font stuff
 * @invite FdZhbjY
 * @source https://github.com/RockGuyDog/projectchimpnewseedtheme
 * @updateUrl https://raw.githubusercontent.com/RockGuyDog/projectchimpnewseedtheme/main/Project-Chimp-New-Seed.Theme.css
@@ -14,7 +14,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --TB-header-padding: 100px!important;
+  --TB-header-padding: 50px!important;
   --background-image: url('https://cdn.discordapp.com/attachments/1146039062021537893/1152629914349092914/image.png');
   --background-image-blur: 5px;
   --background-image-size: cover;
@@ -65,9 +65,12 @@
 
 span {
   font-size: var(--chat-font-size);
+  font-family: var(--font)!important;
 }
 
 :not(span) {
   font-size: var(--other-font-size)!important;
+  font-family: var(--font)!important;
 }
+
 
