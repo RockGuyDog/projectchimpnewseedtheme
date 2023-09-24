@@ -10,6 +10,15 @@
 
 @import url(https://raw.githubusercontent.com/RockGuyDog/projectchimpnewseedtheme/main/default.css);
 
+@font-face {
+  font-family: PixelFont;
+  src: url(https://cdn.discordapp.com/attachments/1109549195788034110/1155574847892639804/Pixel_Font-7.ttf);
+}
+
+body {
+  font-family: PixelFont;
+}
+
 /*
   To make editing this theme easier I recommend using Notepad++
   you can download it for free here https://notepad-plus-plus.org/download/
